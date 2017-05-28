@@ -1,2 +1,2 @@
-# commodity-prices
-Commodity prices data gathered from trusted online website.
+# Harga-Komoditas
+Indonesia commodity prices data gathered from trusted online website.
